@@ -1,0 +1,42 @@
+<control> default_path=../../Samples/Kick1-CN/
+
+
+// Kick 1 (Sub Mic)
+
+<group> loop_mode=one_shot key=A0
+<region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR1_1_21_CN.wav
+<region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR1_22_42_CN.wav
+<region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR1_43_63_CN.wav
+<region> lovel=064 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR1_64_84_CN.wav
+<region> lovel=085 hivel=105 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR1_85_105_CN.wav
+<region> lovel=106 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR1_106_127_CN.wav
+<region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR2_1_21_CN.wav
+<region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR2_22_42_CN.wav
+<region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR2_43_63_CN.wav
+<region> lovel=064 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR2_64_84_CN.wav
+<region> lovel=085 hivel=105 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR2_85_105_CN.wav
+<region> lovel=106 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR2_106_127_CN.wav
+<region> lovel=001 hivel=021 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR3_1_21_CN.wav
+<region> lovel=022 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR3_22_42_CN.wav
+<region> lovel=043 hivel=063 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR3_43_63_CN.wav
+<region> lovel=064 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR3_64_84_CN.wav
+<region> lovel=085 hivel=105 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR3_85_105_CN.wav
+<region> lovel=106 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR3_106_127_CN.wav
+<region> lovel=001 hivel=021 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR4_1_21_CN.wav
+<region> lovel=022 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR4_22_42_CN.wav
+<region> lovel=043 hivel=063 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR4_43_63_CN.wav
+<region> lovel=064 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR4_64_84_CN.wav
+<region> lovel=085 hivel=105 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR4_85_105_CN.wav
+<region> lovel=106 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR4_106_127_CN.wav
+<region> lovel=001 hivel=021 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR5_1_21_CN.wav
+<region> lovel=022 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR5_22_42_CN.wav
+<region> lovel=043 hivel=063 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR5_43_63_CN.wav
+<region> lovel=064 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR5_64_84_CN.wav
+<region> lovel=085 hivel=105 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR5_85_105_CN.wav
+<region> lovel=106 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD37_Kick1KSRR5_106_127_CN.wav
+<region> lovel=001 hivel=021 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR6_1_21_CN.wav
+<region> lovel=022 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR6_22_42_CN.wav
+<region> lovel=043 hivel=063 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR6_43_63_CN.wav
+<region> lovel=064 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR6_64_84_CN.wav
+<region> lovel=085 hivel=105 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR6_85_105_CN.wav
+<region> lovel=106 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD37_Kick1KSRR6_106_127_CN.wav

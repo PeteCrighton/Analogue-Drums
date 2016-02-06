@@ -1,0 +1,76 @@
+<control> default_path=../../Samples/
+
+
+// Crash 4 (Overhead Mics)
+
+<group> loop_mode=one_shot key=A4  // Edge
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR1_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR1_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR1_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR1_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR2_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR2_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR2_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR2_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR3_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR3_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR3_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR3_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR4_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR4_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR4_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR4_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR5_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR5_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR5_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4OHRR5_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR6_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR6_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR6_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4OHRR6_97_127_EG.wav
+
+<group> loop_mode=one_shot key=A#4  // Bell
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR1_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR1_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR1_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR1_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR2_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR2_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR2_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR2_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR3_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR3_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR3_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR3_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR4_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR4_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR4_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR4_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR5_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR5_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR5_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4OHRR5_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR6_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR6_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR6_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4OHRR6_97_127_BL.wav
+
+<group> loop_mode=one_shot key=B4  // Choke
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR1_1_42_CH.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR1_43_84_CH.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR1_85_127_CH.wav
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR2_1_42_CH.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR2_43_84_CH.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR2_85_127_CH.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR3_1_42_CH.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR3_43_84_CH.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR3_85_127_CH.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR4_1_42_CH.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR4_43_84_CH.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR4_85_127_CH.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR5_1_42_CH.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR5_43_84_CH.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4OHRR5_85_127_CH.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR6_1_42_CH.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR6_43_84_CH.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-CH/AD37_Crash4OHRR6_85_127_CH.wav

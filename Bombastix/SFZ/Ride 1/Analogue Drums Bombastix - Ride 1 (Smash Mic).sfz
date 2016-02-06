@@ -1,0 +1,64 @@
+<control> default_path=../../Samples/
+
+
+// Ride 1 (Smash Mic)
+
+<group> loop_mode=one_shot key=F#2  // Bow
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR1_1_32_BW.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR1_33_64_BW.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR1_65_96_BW.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR1_97_127_BW.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR2_1_32_BW.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR2_33_64_BW.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR2_65_96_BW.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR2_97_127_BW.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR3_1_32_BW.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR3_33_64_BW.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR3_65_96_BW.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR3_97_127_BW.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR4_1_32_BW.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR4_33_64_BW.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR4_65_96_BW.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR4_97_127_BW.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR5_1_32_BW.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR5_33_64_BW.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR5_65_96_BW.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BW/AD37_Ride1SMRR5_97_127_BW.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR6_1_32_BW.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR6_33_64_BW.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR6_65_96_BW.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BW/AD37_Ride1SMRR6_97_127_BW.wav
+
+<group> loop_mode=one_shot key=G2  // Bell
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR1_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR1_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR1_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR1_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR2_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR2_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR2_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR2_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR3_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR3_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR3_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR3_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR4_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR4_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR4_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR4_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR5_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR5_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR5_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-BL/AD37_Ride1SMRR5_97_127_BL.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR6_1_32_BL.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR6_33_64_BL.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR6_65_96_BL.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-BL/AD37_Ride1SMRR6_97_127_BL.wav
+
+<group> loop_mode=one_shot key=G#2  // Edge
+<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride1-EG/AD37_Ride1SMRR1_1_127_EG.wav
+<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride1-EG/AD37_Ride1SMRR2_1_127_EG.wav
+<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride1-EG/AD37_Ride1SMRR3_1_127_EG.wav
+<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride1-EG/AD37_Ride1SMRR4_1_127_EG.wav
+<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride1-EG/AD37_Ride1SMRR5_1_127_EG.wav
+<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride1-EG/AD37_Ride1SMRR6_1_127_EG.wav

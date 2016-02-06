@@ -1,0 +1,74 @@
+<control> default_path=../../Samples/
+
+
+// Snare 2 (Bottom Mic)
+
+<group> loop_mode=one_shot key=C1  // cross-stick
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR1_1_32_XS.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR1_33_64_XS.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR1_65_96_XS.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR1_97_127_XS.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR2_1_32_XS.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR2_33_64_XS.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR2_65_96_XS.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR2_97_127_XS.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR3_1_32_XS.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR3_33_64_XS.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR3_65_96_XS.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR3_97_127_XS.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR4_1_32_XS.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR4_33_64_XS.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR4_65_96_XS.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR4_97_127_XS.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR5_1_32_XS.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR5_33_64_XS.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR5_65_96_XS.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2SBRR5_97_127_XS.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR6_1_32_XS.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR6_33_64_XS.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR6_65_96_XS.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2SBRR6_97_127_XS.wav
+
+<group> loop_mode=one_shot key=C#1
+<region> lovel=001 hivel=018 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR1_1_18_CN.wav
+<region> lovel=019 hivel=036 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR1_19_36_CN.wav
+<region> lovel=037 hivel=054 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR1_37_54_CN.wav
+<region> lovel=055 hivel=072 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR1_55_72_CN.wav
+<region> lovel=073 hivel=090 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR1_73_90_CN.wav
+<region> lovel=091 hivel=108 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR1_91_108_CN.wav
+<region> lovel=109 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR1_109_127_CN.wav
+<region> lovel=001 hivel=018 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR2_1_18_CN.wav
+<region> lovel=019 hivel=036 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR2_19_36_CN.wav
+<region> lovel=037 hivel=054 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR2_37_54_CN.wav
+<region> lovel=055 hivel=072 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR2_55_72_CN.wav
+<region> lovel=073 hivel=090 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR2_73_90_CN.wav
+<region> lovel=091 hivel=108 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR2_91_108_CN.wav
+<region> lovel=109 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR2_109_127_CN.wav
+<region> lovel=001 hivel=018 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR3_1_18_CN.wav
+<region> lovel=019 hivel=036 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR3_19_36_CN.wav
+<region> lovel=037 hivel=054 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR3_37_54_CN.wav
+<region> lovel=055 hivel=072 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR3_55_72_CN.wav
+<region> lovel=073 hivel=090 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR3_73_90_CN.wav
+<region> lovel=091 hivel=108 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR3_91_108_CN.wav
+<region> lovel=109 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR3_109_127_CN.wav
+<region> lovel=001 hivel=018 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR4_1_18_CN.wav
+<region> lovel=019 hivel=036 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR4_19_36_CN.wav
+<region> lovel=037 hivel=054 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR4_37_54_CN.wav
+<region> lovel=055 hivel=072 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR4_55_72_CN.wav
+<region> lovel=073 hivel=090 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR4_73_90_CN.wav
+<region> lovel=091 hivel=108 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR4_91_108_CN.wav
+<region> lovel=109 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR4_109_127_CN.wav
+<region> lovel=001 hivel=018 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR5_1_18_CN.wav
+<region> lovel=019 hivel=036 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR5_19_36_CN.wav
+<region> lovel=037 hivel=054 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR5_37_54_CN.wav
+<region> lovel=055 hivel=072 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR5_55_72_CN.wav
+<region> lovel=073 hivel=090 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR5_73_90_CN.wav
+<region> lovel=091 hivel=108 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR5_91_108_CN.wav
+<region> lovel=109 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2SBRR5_109_127_CN.wav
+<region> lovel=001 hivel=018 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR6_1_18_CN.wav
+<region> lovel=019 hivel=036 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR6_19_36_CN.wav
+<region> lovel=037 hivel=054 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR6_37_54_CN.wav
+<region> lovel=055 hivel=072 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR6_55_72_CN.wav
+<region> lovel=073 hivel=090 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR6_73_90_CN.wav
+<region> lovel=091 hivel=108 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR6_91_108_CN.wav
+<region> lovel=109 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-CN/AD37_Snare2SBRR6_109_127_CN.wav
