@@ -1,0 +1,42 @@
+<control> default_path=../../Samples/
+
+
+// 
+
+<group> loop_mode=one_shot key=
+<region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
+<region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
+<region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
+<region> lovel=064 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
+<region> lovel=085 hivel=105 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
+<region> lovel=106 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
+<region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
+<region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
+<region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
+<region> lovel=064 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
+<region> lovel=085 hivel=105 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
+<region> lovel=106 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
+<region> lovel=001 hivel=021 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
+<region> lovel=022 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
+<region> lovel=043 hivel=063 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
+<region> lovel=064 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
+<region> lovel=085 hivel=105 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
+<region> lovel=106 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
+<region> lovel=001 hivel=021 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
+<region> lovel=022 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
+<region> lovel=043 hivel=063 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
+<region> lovel=064 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
+<region> lovel=085 hivel=105 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
+<region> lovel=106 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
+<region> lovel=001 hivel=021 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
+<region> lovel=022 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
+<region> lovel=043 hivel=063 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
+<region> lovel=064 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
+<region> lovel=085 hivel=105 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
+<region> lovel=106 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
+<region> lovel=001 hivel=021 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
+<region> lovel=022 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
+<region> lovel=043 hivel=063 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
+<region> lovel=064 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
+<region> lovel=085 hivel=105 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
+<region> lovel=106 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
