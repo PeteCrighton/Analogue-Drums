@@ -1,0 +1,50 @@
+<control> default_path=../../Samples/
+
+
+// FX Crash (Overhead Mics)
+
+<group> loop_mode=one_shot key=F#5  // Edge
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR1_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR1_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR1_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR1_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR2_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR2_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR2_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR2_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR3_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR3_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR3_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR3_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR4_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR4_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR4_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR4_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR5_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR5_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR5_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR5_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR6_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR6_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR6_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR6_97_127_EG.wav
+
+<group> loop_mode=one_shot key=G5  // Bell
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR1_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR1_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR1_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR2_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR2_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR2_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR3_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR3_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR3_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR4_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR4_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR4_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR5_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR5_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR5_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR6_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR6_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-BL/AD35_FXCrashOHRR6_85_127_BL.wav

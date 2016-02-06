@@ -1,0 +1,24 @@
+<control> default_path=../../Samples/Stack-EG/
+
+
+// Stack (Overhead Mics)
+
+<group> loop_mode=one_shot key=D5
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_StackOHRR1_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_StackOHRR1_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_StackOHRR1_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_StackOHRR2_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_StackOHRR2_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_StackOHRR2_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_StackOHRR3_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_StackOHRR3_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_StackOHRR3_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_StackOHRR4_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_StackOHRR4_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_StackOHRR4_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_StackOHRR5_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_StackOHRR5_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_StackOHRR5_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_StackOHRR6_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_StackOHRR6_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_StackOHRR6_85_127_EG.wav

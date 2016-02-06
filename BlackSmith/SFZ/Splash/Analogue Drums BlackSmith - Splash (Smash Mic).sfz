@@ -1,0 +1,24 @@
+<control> default_path=../../Samples/Splash-EG/
+
+
+// Splash (Smash Mic)
+
+<group> loop_mode=one_shot key=C5
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_SplashSMRR1_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_SplashSMRR1_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_SplashSMRR1_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_SplashSMRR2_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_SplashSMRR2_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_SplashSMRR2_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_SplashSMRR3_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_SplashSMRR3_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_SplashSMRR3_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_SplashSMRR4_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_SplashSMRR4_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_SplashSMRR4_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_SplashSMRR5_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_SplashSMRR5_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_SplashSMRR5_85_127_EG.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_SplashSMRR6_1_42_EG.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_SplashSMRR6_43_84_EG.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_SplashSMRR6_85_127_EG.wav

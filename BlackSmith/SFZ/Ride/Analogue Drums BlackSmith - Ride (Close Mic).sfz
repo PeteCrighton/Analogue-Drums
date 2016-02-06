@@ -1,0 +1,44 @@
+<control> default_path=../../Samples/
+
+
+// Ride (Close Mic)
+
+<group> loop_mode=one_shot key=F#2  // Bow
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR1_1_42_BW.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR1_43_84_BW.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR1_85_127_BW.wav
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR2_1_42_BW.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR2_43_84_BW.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR2_85_127_BW.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR3_1_42_BW.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR3_43_84_BW.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR3_85_127_BW.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR4_1_42_BW.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR4_43_84_BW.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR4_85_127_BW.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR5_1_42_BW.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR5_43_84_BW.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride-BW/AD35_RideCMRR5_85_127_BW.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR6_1_42_BW.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR6_43_84_BW.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride-BW/AD35_RideCMRR6_85_127_BW.wav
+
+<group> loop_mode=one_shot key=G2  // Bell
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR1_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR1_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR1_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR2_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR2_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR2_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR3_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR3_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR3_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR4_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR4_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR4_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR5_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR5_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride-BL/AD35_RideCMRR5_85_127_BL.wav
+<region> lovel=001 hivel=042 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR6_1_42_BL.wav
+<region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR6_43_84_BL.wav
+<region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride-BL/AD35_RideCMRR6_85_127_BL.wav

@@ -1,0 +1,30 @@
+<control> default_path=../../Samples/China-EG/
+
+
+// China (Room Mics)
+
+<group> loop_mode=one_shot key=E5
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR1_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR1_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR1_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR1_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR2_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR2_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR2_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR2_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR3_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR3_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR3_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR3_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR4_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR4_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR4_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR4_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR5_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR5_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR5_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD35_ChinaRMRR5_97_127_EG.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR6_1_32_EG.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR6_33_64_EG.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR6_65_96_EG.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD35_ChinaRMRR6_97_127_EG.wav
