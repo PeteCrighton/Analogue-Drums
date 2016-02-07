@@ -284,9 +284,9 @@
 <region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-PD/AD37_Hihat2RMpvgRR6_85_127_PD.wav
 
 <group> loop_mode=one_shot key=B6 group=1 off_by=1  // Footsplash
-<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2RMovgRR1_1_127_FS.wav
-<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Hihat2-FS/AD37_Hihat2RMovgRR2_1_127_FS.wav
-<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2RMovgRR3_1_127_FS.wav
-<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Hihat2-FS/AD37_Hihat2RMovgRR4_1_127_FS.wav
-<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2RMovgRR5_1_127_FS.wav
-<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-FS/AD37_Hihat2RMovgRR6_1_127_FS.wav
+<region> lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2RMovgRR1_1_127_FS.wav
+<region> lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Hihat2-FS/AD37_Hihat2RMovgRR2_1_127_FS.wav
+<region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2RMovgRR3_1_127_FS.wav
+<region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Hihat2-FS/AD37_Hihat2RMovgRR4_1_127_FS.wav
+<region> lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2RMovgRR5_1_127_FS.wav
+<region> lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-FS/AD37_Hihat2RMovgRR6_1_127_FS.wav

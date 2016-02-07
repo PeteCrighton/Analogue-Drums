@@ -56,9 +56,9 @@
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride2-BL/AD37_Ride2CMRR6_97_127_BL.wav
 
 <group> loop_mode=one_shot key=G#2  // Edge
-<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2CMRR1_1_127_EG.wav
-<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride2-EG/AD37_Ride2CMRR2_1_127_EG.wav
-<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2CMRR3_1_127_EG.wav
-<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride2-EG/AD37_Ride2CMRR4_1_127_EG.wav
-<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2CMRR5_1_127_EG.wav
-<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride2-EG/AD37_Ride2CMRR6_1_127_EG.wav
+<region> lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2CMRR1_1_127_EG.wav
+<region> lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride2-EG/AD37_Ride2CMRR2_1_127_EG.wav
+<region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2CMRR3_1_127_EG.wav
+<region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=Ride2-EG/AD37_Ride2CMRR4_1_127_EG.wav
+<region> lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2CMRR5_1_127_EG.wav
+<region> lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride2-EG/AD37_Ride2CMRR6_1_127_EG.wav

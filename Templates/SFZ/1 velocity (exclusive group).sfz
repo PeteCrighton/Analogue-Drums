@@ -4,9 +4,9 @@
 // 
 
 <group> loop_mode=one_shot key= group=1 off_by=1
-<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
-<region> lovel=001 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
-<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
-<region> lovel=001 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
-<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
-<region> lovel=001 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
+<region> lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
+<region> lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
+<region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
+<region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=
+<region> lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=
+<region> lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=
