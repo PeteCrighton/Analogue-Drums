@@ -1,0 +1,56 @@
+<control> default_path=../../Samples/Room Mics/Tom 2/
+
+
+// Tom 2 (Room Mic)
+
+<group> loop_mode=one_shot key=C#2 // right-hand
+<region> lovel=001 hivel=006 sample=AD28_RM_FLOORTOM1_RHCN_01.wav
+<region> lovel=007 hivel=012 sample=AD28_RM_FLOORTOM1_RHCN_02.wav
+<region> lovel=013 hivel=018 sample=AD28_RM_FLOORTOM1_RHCN_03.wav
+<region> lovel=019 hivel=024 sample=AD28_RM_FLOORTOM1_RHCN_04.wav
+<region> lovel=025 hivel=030 sample=AD28_RM_FLOORTOM1_RHCN_05.wav
+<region> lovel=031 hivel=036 sample=AD28_RM_FLOORTOM1_RHCN_06.wav
+<region> lovel=037 hivel=042 sample=AD28_RM_FLOORTOM1_RHCN_07.wav
+<region> lovel=043 hivel=047 sample=AD28_RM_FLOORTOM1_RHCN_08.wav
+<region> lovel=048 hivel=052 sample=AD28_RM_FLOORTOM1_RHCN_09.wav
+<region> lovel=053 hivel=057 sample=AD28_RM_FLOORTOM1_RHCN_10.wav
+<region> lovel=058 hivel=062 sample=AD28_RM_FLOORTOM1_RHCN_11.wav
+<region> lovel=063 hivel=067 sample=AD28_RM_FLOORTOM1_RHCN_12.wav
+<region> lovel=068 hivel=072 sample=AD28_RM_FLOORTOM1_RHCN_13.wav
+<region> lovel=073 hivel=077 sample=AD28_RM_FLOORTOM1_RHCN_14.wav
+<region> lovel=078 hivel=082 sample=AD28_RM_FLOORTOM1_RHCN_15.wav
+<region> lovel=083 hivel=087 sample=AD28_RM_FLOORTOM1_RHCN_16.wav
+<region> lovel=088 hivel=092 sample=AD28_RM_FLOORTOM1_RHCN_17.wav
+<region> lovel=093 hivel=097 sample=AD28_RM_FLOORTOM1_RHCN_18.wav
+<region> lovel=098 hivel=102 sample=AD28_RM_FLOORTOM1_RHCN_19.wav
+<region> lovel=103 hivel=107 sample=AD28_RM_FLOORTOM1_RHCN_20.wav
+<region> lovel=108 hivel=112 sample=AD28_RM_FLOORTOM1_RHCN_21.wav
+<region> lovel=113 hivel=117 sample=AD28_RM_FLOORTOM1_RHCN_22.wav
+<region> lovel=118 hivel=122 sample=AD28_RM_FLOORTOM1_RHCN_23.wav
+<region> lovel=123 hivel=127 sample=AD28_RM_FLOORTOM1_RHCN_24.wav
+
+<group> loop_mode=one_shot key=E2 // left-hand
+<region> lovel=001 hivel=006 sample=AD28_RM_FLOORTOM1_LHCN_01.wav
+<region> lovel=007 hivel=012 sample=AD28_RM_FLOORTOM1_LHCN_02.wav
+<region> lovel=013 hivel=018 sample=AD28_RM_FLOORTOM1_LHCN_03.wav
+<region> lovel=019 hivel=024 sample=AD28_RM_FLOORTOM1_LHCN_04.wav
+<region> lovel=025 hivel=030 sample=AD28_RM_FLOORTOM1_LHCN_05.wav
+<region> lovel=031 hivel=036 sample=AD28_RM_FLOORTOM1_LHCN_06.wav
+<region> lovel=037 hivel=042 sample=AD28_RM_FLOORTOM1_LHCN_07.wav
+<region> lovel=043 hivel=047 sample=AD28_RM_FLOORTOM1_LHCN_08.wav
+<region> lovel=048 hivel=052 sample=AD28_RM_FLOORTOM1_LHCN_09.wav
+<region> lovel=053 hivel=057 sample=AD28_RM_FLOORTOM1_LHCN_10.wav
+<region> lovel=058 hivel=062 sample=AD28_RM_FLOORTOM1_LHCN_11.wav
+<region> lovel=063 hivel=067 sample=AD28_RM_FLOORTOM1_LHCN_12.wav
+<region> lovel=068 hivel=072 sample=AD28_RM_FLOORTOM1_LHCN_13.wav
+<region> lovel=073 hivel=077 sample=AD28_RM_FLOORTOM1_LHCN_14.wav
+<region> lovel=078 hivel=082 sample=AD28_RM_FLOORTOM1_LHCN_15.wav
+<region> lovel=083 hivel=087 sample=AD28_RM_FLOORTOM1_LHCN_16.wav
+<region> lovel=088 hivel=092 sample=AD28_RM_FLOORTOM1_LHCN_17.wav
+<region> lovel=093 hivel=097 sample=AD28_RM_FLOORTOM1_LHCN_18.wav
+<region> lovel=098 hivel=102 sample=AD28_RM_FLOORTOM1_LHCN_19.wav
+<region> lovel=103 hivel=107 sample=AD28_RM_FLOORTOM1_LHCN_20.wav
+<region> lovel=108 hivel=112 sample=AD28_RM_FLOORTOM1_LHCN_21.wav
+<region> lovel=113 hivel=117 sample=AD28_RM_FLOORTOM1_LHCN_22.wav
+<region> lovel=118 hivel=122 sample=AD28_RM_FLOORTOM1_LHCN_23.wav
+<region> lovel=123 hivel=127 sample=AD28_RM_FLOORTOM1_LHCN_24.wav

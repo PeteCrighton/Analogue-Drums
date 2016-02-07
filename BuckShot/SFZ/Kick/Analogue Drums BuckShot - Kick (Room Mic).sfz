@@ -1,0 +1,30 @@
+<control> default_path=../../Samples/Room Mics/Kick/
+
+
+// Kick (Room Mic)
+
+<group> loop_mode=one_shot key=A0
+<region> lovel=001 hivel=006 sample=AD28_RM_KICK_RF_01.wav
+<region> lovel=007 hivel=012 sample=AD28_RM_KICK_RF_02.wav
+<region> lovel=013 hivel=018 sample=AD28_RM_KICK_RF_03.wav
+<region> lovel=019 hivel=024 sample=AD28_RM_KICK_RF_04.wav
+<region> lovel=025 hivel=030 sample=AD28_RM_KICK_RF_05.wav
+<region> lovel=031 hivel=036 sample=AD28_RM_KICK_RF_06.wav
+<region> lovel=037 hivel=042 sample=AD28_RM_KICK_RF_07.wav
+<region> lovel=043 hivel=047 sample=AD28_RM_KICK_RF_08.wav
+<region> lovel=048 hivel=052 sample=AD28_RM_KICK_RF_09.wav
+<region> lovel=053 hivel=057 sample=AD28_RM_KICK_RF_10.wav
+<region> lovel=058 hivel=062 sample=AD28_RM_KICK_RF_11.wav
+<region> lovel=063 hivel=067 sample=AD28_RM_KICK_RF_12.wav
+<region> lovel=068 hivel=072 sample=AD28_RM_KICK_RF_13.wav
+<region> lovel=073 hivel=077 sample=AD28_RM_KICK_RF_14.wav
+<region> lovel=078 hivel=082 sample=AD28_RM_KICK_RF_15.wav
+<region> lovel=083 hivel=087 sample=AD28_RM_KICK_RF_16.wav
+<region> lovel=088 hivel=092 sample=AD28_RM_KICK_RF_17.wav
+<region> lovel=093 hivel=097 sample=AD28_RM_KICK_RF_18.wav
+<region> lovel=098 hivel=102 sample=AD28_RM_KICK_RF_19.wav
+<region> lovel=103 hivel=107 sample=AD28_RM_KICK_RF_20.wav
+<region> lovel=108 hivel=112 sample=AD28_RM_KICK_RF_21.wav
+<region> lovel=113 hivel=117 sample=AD28_RM_KICK_RF_22.wav
+<region> lovel=118 hivel=122 sample=AD28_RM_KICK_RF_23.wav
+<region> lovel=123 hivel=127 sample=AD28_RM_KICK_RF_24.wav

@@ -1,0 +1,30 @@
+<control> default_path=../../Samples/Overhead Mics/Crash1/
+
+
+// Crash 1 (Overhead Mics)
+
+<group> loop_mode=one_shot key=C4
+<region> lovel=001 hivel=006 sample=AD28_OH_CRASH1_RHE_01.wav
+<region> lovel=007 hivel=012 sample=AD28_OH_CRASH1_RHE_02.wav
+<region> lovel=013 hivel=018 sample=AD28_OH_CRASH1_RHE_03.wav
+<region> lovel=019 hivel=024 sample=AD28_OH_CRASH1_RHE_04.wav
+<region> lovel=025 hivel=030 sample=AD28_OH_CRASH1_RHE_05.wav
+<region> lovel=031 hivel=036 sample=AD28_OH_CRASH1_RHE_06.wav
+<region> lovel=037 hivel=042 sample=AD28_OH_CRASH1_RHE_07.wav
+<region> lovel=043 hivel=047 sample=AD28_OH_CRASH1_RHE_08.wav
+<region> lovel=048 hivel=052 sample=AD28_OH_CRASH1_RHE_09.wav
+<region> lovel=053 hivel=057 sample=AD28_OH_CRASH1_RHE_10.wav
+<region> lovel=058 hivel=062 sample=AD28_OH_CRASH1_RHE_11.wav
+<region> lovel=063 hivel=067 sample=AD28_OH_CRASH1_RHE_12.wav
+<region> lovel=068 hivel=072 sample=AD28_OH_CRASH1_RHE_13.wav
+<region> lovel=073 hivel=077 sample=AD28_OH_CRASH1_RHE_14.wav
+<region> lovel=078 hivel=082 sample=AD28_OH_CRASH1_RHE_15.wav
+<region> lovel=083 hivel=087 sample=AD28_OH_CRASH1_RHE_16.wav
+<region> lovel=088 hivel=092 sample=AD28_OH_CRASH1_RHE_17.wav
+<region> lovel=093 hivel=097 sample=AD28_OH_CRASH1_RHE_18.wav
+<region> lovel=098 hivel=102 sample=AD28_OH_CRASH1_RHE_19.wav
+<region> lovel=103 hivel=107 sample=AD28_OH_CRASH1_RHE_20.wav
+<region> lovel=108 hivel=112 sample=AD28_OH_CRASH1_RHE_21.wav
+<region> lovel=113 hivel=117 sample=AD28_OH_CRASH1_RHE_22.wav
+<region> lovel=118 hivel=122 sample=AD28_OH_CRASH1_RHE_23.wav
+<region> lovel=123 hivel=127 sample=AD28_OH_CRASH1_RHE_24.wav

@@ -1,0 +1,82 @@
+<control> default_path=../../Samples/Close Mics/Ride/
+
+
+// Ride (Close Mic)
+
+<group> loop_mode=one_shot key=F#2  // Bow
+<region> lovel=001 hivel=006 sample=AD28_CM_RIDE_MIDL_01.wav
+<region> lovel=007 hivel=012 sample=AD28_CM_RIDE_MIDL_02.wav
+<region> lovel=013 hivel=018 sample=AD28_CM_RIDE_MIDL_03.wav
+<region> lovel=019 hivel=024 sample=AD28_CM_RIDE_MIDL_04.wav
+<region> lovel=025 hivel=030 sample=AD28_CM_RIDE_MIDL_05.wav
+<region> lovel=031 hivel=036 sample=AD28_CM_RIDE_MIDL_06.wav
+<region> lovel=037 hivel=042 sample=AD28_CM_RIDE_MIDL_07.wav
+<region> lovel=043 hivel=047 sample=AD28_CM_RIDE_MIDL_08.wav
+<region> lovel=048 hivel=052 sample=AD28_CM_RIDE_MIDL_09.wav
+<region> lovel=053 hivel=057 sample=AD28_CM_RIDE_MIDL_10.wav
+<region> lovel=058 hivel=062 sample=AD28_CM_RIDE_MIDL_11.wav
+<region> lovel=063 hivel=067 sample=AD28_CM_RIDE_MIDL_12.wav
+<region> lovel=068 hivel=072 sample=AD28_CM_RIDE_MIDL_13.wav
+<region> lovel=073 hivel=077 sample=AD28_CM_RIDE_MIDL_14.wav
+<region> lovel=078 hivel=082 sample=AD28_CM_RIDE_MIDL_15.wav
+<region> lovel=083 hivel=087 sample=AD28_CM_RIDE_MIDL_16.wav
+<region> lovel=088 hivel=092 sample=AD28_CM_RIDE_MIDL_17.wav
+<region> lovel=093 hivel=097 sample=AD28_CM_RIDE_MIDL_18.wav
+<region> lovel=098 hivel=102 sample=AD28_CM_RIDE_MIDL_19.wav
+<region> lovel=103 hivel=107 sample=AD28_CM_RIDE_MIDL_20.wav
+<region> lovel=108 hivel=112 sample=AD28_CM_RIDE_MIDL_21.wav
+<region> lovel=113 hivel=117 sample=AD28_CM_RIDE_MIDL_22.wav
+<region> lovel=118 hivel=122 sample=AD28_CM_RIDE_MIDL_23.wav
+<region> lovel=123 hivel=127 sample=AD28_CM_RIDE_MIDL_24.wav
+
+<group> loop_mode=one_shot key=G2  // Bell
+<region> lovel=001 hivel=006 sample=AD28_CM_RIDE_BELL_01.wav
+<region> lovel=007 hivel=012 sample=AD28_CM_RIDE_BELL_02.wav
+<region> lovel=013 hivel=018 sample=AD28_CM_RIDE_BELL_03.wav
+<region> lovel=019 hivel=024 sample=AD28_CM_RIDE_BELL_04.wav
+<region> lovel=025 hivel=030 sample=AD28_CM_RIDE_BELL_05.wav
+<region> lovel=031 hivel=036 sample=AD28_CM_RIDE_BELL_06.wav
+<region> lovel=037 hivel=042 sample=AD28_CM_RIDE_BELL_07.wav
+<region> lovel=043 hivel=047 sample=AD28_CM_RIDE_BELL_08.wav
+<region> lovel=048 hivel=052 sample=AD28_CM_RIDE_BELL_09.wav
+<region> lovel=053 hivel=057 sample=AD28_CM_RIDE_BELL_10.wav
+<region> lovel=058 hivel=062 sample=AD28_CM_RIDE_BELL_11.wav
+<region> lovel=063 hivel=067 sample=AD28_CM_RIDE_BELL_12.wav
+<region> lovel=068 hivel=072 sample=AD28_CM_RIDE_BELL_13.wav
+<region> lovel=073 hivel=077 sample=AD28_CM_RIDE_BELL_14.wav
+<region> lovel=078 hivel=082 sample=AD28_CM_RIDE_BELL_15.wav
+<region> lovel=083 hivel=087 sample=AD28_CM_RIDE_BELL_16.wav
+<region> lovel=088 hivel=092 sample=AD28_CM_RIDE_BELL_17.wav
+<region> lovel=093 hivel=097 sample=AD28_CM_RIDE_BELL_18.wav
+<region> lovel=098 hivel=102 sample=AD28_CM_RIDE_BELL_19.wav
+<region> lovel=103 hivel=107 sample=AD28_CM_RIDE_BELL_20.wav
+<region> lovel=108 hivel=112 sample=AD28_CM_RIDE_BELL_21.wav
+<region> lovel=113 hivel=117 sample=AD28_CM_RIDE_BELL_22.wav
+<region> lovel=118 hivel=122 sample=AD28_CM_RIDE_BELL_23.wav
+<region> lovel=123 hivel=127 sample=AD28_CM_RIDE_BELL_24.wav
+
+<group> loop_mode=one_shot key=G#2  // Edge
+<region> lovel=001 hivel=006 sample=AD28_CM_RIDE_EDGE_01.wav
+<region> lovel=007 hivel=012 sample=AD28_CM_RIDE_EDGE_02.wav
+<region> lovel=013 hivel=018 sample=AD28_CM_RIDE_EDGE_03.wav
+<region> lovel=019 hivel=024 sample=AD28_CM_RIDE_EDGE_04.wav
+<region> lovel=025 hivel=030 sample=AD28_CM_RIDE_EDGE_05.wav
+<region> lovel=031 hivel=036 sample=AD28_CM_RIDE_EDGE_06.wav
+<region> lovel=037 hivel=042 sample=AD28_CM_RIDE_EDGE_07.wav
+<region> lovel=043 hivel=047 sample=AD28_CM_RIDE_EDGE_08.wav
+<region> lovel=048 hivel=052 sample=AD28_CM_RIDE_EDGE_09.wav
+<region> lovel=053 hivel=057 sample=AD28_CM_RIDE_EDGE_10.wav
+<region> lovel=058 hivel=062 sample=AD28_CM_RIDE_EDGE_11.wav
+<region> lovel=063 hivel=067 sample=AD28_CM_RIDE_EDGE_12.wav
+<region> lovel=068 hivel=072 sample=AD28_CM_RIDE_EDGE_13.wav
+<region> lovel=073 hivel=077 sample=AD28_CM_RIDE_EDGE_14.wav
+<region> lovel=078 hivel=082 sample=AD28_CM_RIDE_EDGE_15.wav
+<region> lovel=083 hivel=087 sample=AD28_CM_RIDE_EDGE_16.wav
+<region> lovel=088 hivel=092 sample=AD28_CM_RIDE_EDGE_17.wav
+<region> lovel=093 hivel=097 sample=AD28_CM_RIDE_EDGE_18.wav
+<region> lovel=098 hivel=102 sample=AD28_CM_RIDE_EDGE_19.wav
+<region> lovel=103 hivel=107 sample=AD28_CM_RIDE_EDGE_20.wav
+<region> lovel=108 hivel=112 sample=AD28_CM_RIDE_EDGE_21.wav
+<region> lovel=113 hivel=117 sample=AD28_CM_RIDE_EDGE_22.wav
+<region> lovel=118 hivel=122 sample=AD28_CM_RIDE_EDGE_23.wav
+<region> lovel=123 hivel=127 sample=AD28_CM_RIDE_EDGE_24.wav
