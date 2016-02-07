@@ -1,7 +1,7 @@
 <control> default_path=../../Samples/
 
 
-// China
+// China (Overhead Mics)
 
 <group> loop_mode=one_shot key=F#5  // Edge
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=China-EG/AD37_ChinaOHRR1_1_32_EG.wav
