@@ -1,0 +1,51 @@
+<control> default_path=../../Samples/OH Mics/
+
+
+// Crash 1 (Overhead Mics)
+
+<group> loop_mode=one_shot key=C4  // Edge
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v01r01.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v02r01.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v03r01.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v04r01.wav
+<region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v01r02.wav
+<region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v02r02.wav
+<region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v03r02.wav
+<region> lovel=097 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v04r02.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v01r03.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v02r03.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v03r03.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v04r03.wav
+<region> lovel=001 hivel=032 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v01r04.wav
+<region> lovel=033 hivel=064 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v02r04.wav
+<region> lovel=065 hivel=096 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v03r04.wav
+<region> lovel=097 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v04r04.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v01r05.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v02r05.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v03r05.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Crash1_EG_v04r05.wav
+<region> lovel=001 hivel=032 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v01r06.wav
+<region> lovel=033 hivel=064 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v02r06.wav
+<region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v03r06.wav
+<region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Crash1_EG_v04r06.wav
+
+<group> loop_mode=one_shot key=C#4  // Bell
+<region> lovel=001 hivel=043 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v01r01.wav
+<region> lovel=044 hivel=085 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v02r01.wav
+<region> lovel=086 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v03r01.wav
+<region> lovel=001 hivel=043 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v01r02.wav
+<region> lovel=044 hivel=085 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v02r02.wav
+<region> lovel=086 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v03r02.wav
+<region> lovel=001 hivel=043 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v01r03.wav
+<region> lovel=044 hivel=085 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v02r03.wav
+<region> lovel=086 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v03r03.wav
+<region> lovel=001 hivel=043 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v01r04.wav
+<region> lovel=044 hivel=085 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v02r04.wav
+<region> lovel=086 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v03r04.wav
+<region> lovel=001 hivel=043 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v01r05.wav
+<region> lovel=044 hivel=085 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v02r05.wav
+<region> lovel=086 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Crash1Bell_TP_v03r05.wav
+<region> lovel=001 hivel=043 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v01r06.wav
+<region> lovel=044 hivel=085 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v02r06.wav
+<region> lovel=086 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Crash1Bell_TP_v03r06.wav
+

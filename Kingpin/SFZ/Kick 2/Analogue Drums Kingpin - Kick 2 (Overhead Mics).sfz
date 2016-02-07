@@ -1,0 +1,48 @@
+<control> default_path=../../Samples/OH Mics/
+
+
+// Kick 2 (Overhead Mics)
+
+<group> loop_mode=one_shot key=A0
+<region> lovel=001 hivel=018 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v01r01.wav
+<region> lovel=019 hivel=036 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v02r01.wav
+<region> lovel=037 hivel=054 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v03r01.wav
+<region> lovel=055 hivel=072 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v04r01.wav
+<region> lovel=073 hivel=090 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v05r01.wav
+<region> lovel=091 hivel=108 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v06r01.wav
+<region> lovel=109 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v07r01.wav
+<region> lovel=001 hivel=018 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v01r02.wav
+<region> lovel=019 hivel=036 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v02r02.wav
+<region> lovel=037 hivel=054 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v03r02.wav
+<region> lovel=055 hivel=072 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v04r02.wav
+<region> lovel=073 hivel=090 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v05r02.wav
+<region> lovel=091 hivel=108 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v06r02.wav
+<region> lovel=109 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v07r02.wav
+<region> lovel=001 hivel=018 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v01r03.wav
+<region> lovel=019 hivel=036 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v02r03.wav
+<region> lovel=037 hivel=054 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v03r03.wav
+<region> lovel=055 hivel=072 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v04r03.wav
+<region> lovel=073 hivel=090 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v05r03.wav
+<region> lovel=091 hivel=108 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v06r03.wav
+<region> lovel=109 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v07r03.wav
+<region> lovel=001 hivel=018 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v01r04.wav
+<region> lovel=019 hivel=036 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v02r04.wav
+<region> lovel=037 hivel=054 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v03r04.wav
+<region> lovel=055 hivel=072 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v04r04.wav
+<region> lovel=073 hivel=090 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v05r04.wav
+<region> lovel=091 hivel=108 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v06r04.wav
+<region> lovel=109 hivel=127 lorand=0.33 hirand=0.66 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v07r04.wav
+<region> lovel=001 hivel=018 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v01r05.wav
+<region> lovel=019 hivel=036 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v02r05.wav
+<region> lovel=037 hivel=054 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v03r05.wav
+<region> lovel=055 hivel=072 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v04r05.wav
+<region> lovel=073 hivel=090 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v05r05.wav
+<region> lovel=091 hivel=108 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v06r05.wav
+<region> lovel=109 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=1 sample=AD24_OH_Kick2_RF_v07r05.wav
+<region> lovel=001 hivel=018 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v01r06.wav
+<region> lovel=019 hivel=036 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v02r06.wav
+<region> lovel=037 hivel=054 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v03r06.wav
+<region> lovel=055 hivel=072 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v04r06.wav
+<region> lovel=073 hivel=090 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v05r06.wav
+<region> lovel=091 hivel=108 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v06r06.wav
+<region> lovel=109 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=AD24_OH_Kick2_RF_v07r06.wav
