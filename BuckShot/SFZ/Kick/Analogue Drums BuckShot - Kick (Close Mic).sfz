@@ -3,7 +3,7 @@
 
 // Kick (Close Mic)
 
-<group> loop_mode=one_shot key=A0
+<group> loop_mode=one_shot key=B0
 <region> lovel=001 hivel=006 sample=AD28_CM_KICK_RF_01.wav
 <region> lovel=007 hivel=012 sample=AD28_CM_KICK_RF_02.wav
 <region> lovel=013 hivel=018 sample=AD28_CM_KICK_RF_03.wav

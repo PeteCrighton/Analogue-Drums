@@ -3,7 +3,7 @@
 
 // Kick 2 (Sub Mic)
 
-<group> loop_mode=one_shot key=B0
+<group> loop_mode=one_shot key=A0
 <region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick2KSRR1_1_21_CN.wav
 <region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick2KSRR1_22_42_CN.wav
 <region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Kick2KSRR1_43_63_CN.wav
