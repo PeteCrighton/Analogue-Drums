@@ -3,7 +3,7 @@
 
 // China
 
-<group> loop_mode=one_shot key=E5  // Edge
+<group> loop_mode=one_shot key=F#5  // Edge
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=China-EG/AD37_ChinaOHRR1_1_32_EG.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=China-EG/AD37_ChinaOHRR1_33_64_EG.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=China-EG/AD37_ChinaOHRR1_65_96_EG.wav
@@ -29,7 +29,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=China-EG/AD37_ChinaOHRR6_65_96_EG.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=China-EG/AD37_ChinaOHRR6_97_127_EG.wav
 
-<group> loop_mode=one_shot key=F5  // Choke
+<group> loop_mode=one_shot key=G5  // Choke
 <region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=China-CH/AD37_ChinaOHRR1_1_42_CH.wav
 <region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=China-CH/AD37_ChinaOHRR1_43_84_CH.wav
 <region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=China-CH/AD37_ChinaOHRR1_85_127_CH.wav
