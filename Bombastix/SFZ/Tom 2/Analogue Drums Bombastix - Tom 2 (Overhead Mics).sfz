@@ -3,7 +3,7 @@
 
 // Tom 2 (Overhead Mics)
 
-<group> loop_mode=one_shot key=C#2
+<group> loop_mode=one_shot amp_veltrack=97 key=C#2
 <region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Tom2OHRR1_1_21_CN.wav
 <region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Tom2OHRR1_22_42_CN.wav
 <region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD37_Tom2OHRR1_43_63_CN.wav

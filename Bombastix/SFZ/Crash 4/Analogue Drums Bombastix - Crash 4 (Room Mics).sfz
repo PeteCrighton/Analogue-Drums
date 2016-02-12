@@ -3,7 +3,7 @@
 
 // Crash 4 (Room Mics)
 
-<group> loop_mode=one_shot key=A4  // Edge
+<group> loop_mode=one_shot amp_veltrack=97 key=A4  // Edge
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4RMRR1_1_32_EG.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4RMRR1_33_64_EG.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-EG/AD37_Crash4RMRR1_65_96_EG.wav
@@ -29,7 +29,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4RMRR6_65_96_EG.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-EG/AD37_Crash4RMRR6_97_127_EG.wav
 
-<group> loop_mode=one_shot key=A#4  // Bell
+<group> loop_mode=one_shot amp_veltrack=97 key=A#4  // Bell
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4RMRR1_1_32_BL.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4RMRR1_33_64_BL.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-BL/AD37_Crash4RMRR1_65_96_BL.wav
@@ -55,7 +55,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4RMRR6_65_96_BL.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Crash4-BL/AD37_Crash4RMRR6_97_127_BL.wav
 
-<group> loop_mode=one_shot key=B4  // Choke
+<group> loop_mode=one_shot amp_veltrack=97 key=B4  // Choke
 <region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4RMRR1_1_42_CH.wav
 <region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4RMRR1_43_84_CH.wav
 <region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Crash4-CH/AD37_Crash4RMRR1_85_127_CH.wav

@@ -3,7 +3,7 @@
 
 // Kick (Room Mics)
 
-<group> loop_mode=one_shot key=A#0  // left foot
+<group> loop_mode=one_shot amp_veltrack=97 key=A#0 amp_veltrack=97  // left foot
 <region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=KickL-CN/AD35_KickLRMRR1_1_21_CN.wav
 <region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=KickL-CN/AD35_KickLRMRR1_22_42_CN.wav
 <region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=KickL-CN/AD35_KickLRMRR1_43_63_CN.wav
@@ -41,7 +41,7 @@
 <region> lovel=085 hivel=105 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=KickL-CN/AD35_KickLRMRR6_85_105_CN.wav
 <region> lovel=106 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=KickL-CN/AD35_KickLRMRR6_106_127_CN.wav
 
-<group> loop_mode=one_shot key=B0  // right foot
+<group> loop_mode=one_shot amp_veltrack=97 key=B0 amp_veltrack=97  // right foot
 <region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=KickR-CN/AD35_KickRRMRR1_1_21_CN.wav
 <region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=KickR-CN/AD35_KickRRMRR1_22_42_CN.wav
 <region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=KickR-CN/AD35_KickRRMRR1_43_63_CN.wav

@@ -3,7 +3,7 @@
 
 // Snare 2 (Close Mic)
 
-<group> loop_mode=one_shot key=C1  // cross-stick
+<group> loop_mode=one_shot amp_veltrack=97 key=C1  // cross-stick
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2CMRR1_1_32_XS.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2CMRR1_33_64_XS.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-XS/AD37_Snare2CMRR1_65_96_XS.wav
@@ -29,7 +29,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2CMRR6_65_96_XS.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Snare2-XS/AD37_Snare2CMRR6_97_127_XS.wav
 
-<group> loop_mode=one_shot key=C#1
+<group> loop_mode=one_shot amp_veltrack=97 key=C#1
 <region> lovel=001 hivel=018 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2CMRR1_1_18_CN.wav
 <region> lovel=019 hivel=036 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2CMRR1_19_36_CN.wav
 <region> lovel=037 hivel=054 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Snare2-CN/AD37_Snare2CMRR1_37_54_CN.wav

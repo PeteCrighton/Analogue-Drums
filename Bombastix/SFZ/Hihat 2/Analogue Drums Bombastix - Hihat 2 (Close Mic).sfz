@@ -3,7 +3,7 @@
 
 // Hihat 2 (Close Mic)
 
-<group> loop_mode=one_shot key=C6 group=1 off_by=1  // Tip Tight
+<group> loop_mode=one_shot amp_veltrack=97 key=C6 group=1 off_by=1  // Tip Tight
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TT/AD37_Hihat2CMcvgRR1_1_32_TT.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TT/AD37_Hihat2CMcvgRR1_33_64_TT.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TT/AD37_Hihat2CMcvgRR1_65_96_TT.wav
@@ -29,7 +29,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TT/AD37_Hihat2CMcvgRR6_65_96_TT.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TT/AD37_Hihat2CMcvgRR6_97_127_TT.wav
 
-<group> loop_mode=one_shot key=C#6 group=1 off_by=1  // Tip Closed
+<group> loop_mode=one_shot amp_veltrack=97 key=C#6 group=1 off_by=1  // Tip Closed
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TC/AD37_Hihat2CMcvgRR1_1_32_TC.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TC/AD37_Hihat2CMcvgRR1_33_64_TC.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TC/AD37_Hihat2CMcvgRR1_65_96_TC.wav
@@ -55,7 +55,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TC/AD37_Hihat2CMcvgRR6_65_96_TC.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TC/AD37_Hihat2CMcvgRR6_97_127_TC.wav
 
-<group> loop_mode=one_shot key=D6 group=1 off_by=1  // Tip Loose
+<group> loop_mode=one_shot amp_veltrack=97 key=D6 group=1 off_by=1  // Tip Loose
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TL/AD37_Hihat2CMovgRR1_1_32_TL.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TL/AD37_Hihat2CMovgRR1_33_64_TL.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TL/AD37_Hihat2CMovgRR1_65_96_TL.wav
@@ -81,7 +81,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TL/AD37_Hihat2CMovgRR6_65_96_TL.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TL/AD37_Hihat2CMovgRR6_97_127_TL.wav
 
-<group> loop_mode=one_shot key=D#6 group=1 off_by=1  // Tip Semi-open
+<group> loop_mode=one_shot amp_veltrack=97 key=D#6 group=1 off_by=1  // Tip Semi-open
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TS/AD37_Hihat2CMovgRR1_1_32_TS.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TS/AD37_Hihat2CMovgRR1_33_64_TS.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TS/AD37_Hihat2CMovgRR1_65_96_TS.wav
@@ -107,7 +107,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TS/AD37_Hihat2CMovgRR6_65_96_TS.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TS/AD37_Hihat2CMovgRR6_97_127_TS.wav
 
-<group> loop_mode=one_shot key=E6 group=1 off_by=1  // Tip Open
+<group> loop_mode=one_shot amp_veltrack=97 key=E6 group=1 off_by=1  // Tip Open
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TO/AD37_Hihat2CMovgRR1_1_32_TO.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TO/AD37_Hihat2CMovgRR1_33_64_TO.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-TO/AD37_Hihat2CMovgRR1_65_96_TO.wav
@@ -133,7 +133,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TO/AD37_Hihat2CMovgRR6_65_96_TO.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-TO/AD37_Hihat2CMovgRR6_97_127_TO.wav
 
-<group> loop_mode=one_shot key=F6 group=1 off_by=1  // Edge Tight
+<group> loop_mode=one_shot amp_veltrack=97 key=F6 group=1 off_by=1  // Edge Tight
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-ET/AD37_Hihat2CMcvgRR1_1_32_ET.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-ET/AD37_Hihat2CMcvgRR1_33_64_ET.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-ET/AD37_Hihat2CMcvgRR1_65_96_ET.wav
@@ -159,7 +159,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-ET/AD37_Hihat2CMcvgRR6_65_96_ET.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-ET/AD37_Hihat2CMcvgRR6_97_127_ET.wav
 
-<group> loop_mode=one_shot key=F#6 group=1 off_by=1  // Edge Closed
+<group> loop_mode=one_shot amp_veltrack=97 key=F#6 group=1 off_by=1  // Edge Closed
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EC/AD37_Hihat2CMcvgRR1_1_32_EC.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EC/AD37_Hihat2CMcvgRR1_33_64_EC.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EC/AD37_Hihat2CMcvgRR1_65_96_EC.wav
@@ -185,7 +185,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-EC/AD37_Hihat2CMcvgRR6_65_96_EC.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-EC/AD37_Hihat2CMcvgRR6_97_127_EC.wav
 
-<group> loop_mode=one_shot key=G6 group=1 off_by=1  // Edge Loose
+<group> loop_mode=one_shot amp_veltrack=97 key=G6 group=1 off_by=1  // Edge Loose
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EL/AD37_Hihat2CMovgRR1_1_32_EL.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EL/AD37_Hihat2CMovgRR1_33_64_EL.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EL/AD37_Hihat2CMovgRR1_65_96_EL.wav
@@ -211,7 +211,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-EL/AD37_Hihat2CMovgRR6_65_96_EL.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-EL/AD37_Hihat2CMovgRR6_97_127_EL.wav
 
-<group> loop_mode=one_shot key=G#6 group=1 off_by=1  // Edge Semi-open
+<group> loop_mode=one_shot amp_veltrack=97 key=G#6 group=1 off_by=1  // Edge Semi-open
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-ES/AD37_Hihat2CMovgRR1_1_32_ES.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-ES/AD37_Hihat2CMovgRR1_33_64_ES.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-ES/AD37_Hihat2CMovgRR1_65_96_ES.wav
@@ -237,7 +237,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-ES/AD37_Hihat2CMovgRR6_65_96_ES.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-ES/AD37_Hihat2CMovgRR6_97_127_ES.wav
 
-<group> loop_mode=one_shot key=A6 group=1 off_by=1  // Edge Open
+<group> loop_mode=one_shot amp_veltrack=97 key=A6 group=1 off_by=1  // Edge Open
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EO/AD37_Hihat2CMovgRR1_1_32_EO.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EO/AD37_Hihat2CMovgRR1_33_64_EO.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-EO/AD37_Hihat2CMovgRR1_65_96_EO.wav
@@ -263,7 +263,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-EO/AD37_Hihat2CMovgRR6_65_96_EO.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-EO/AD37_Hihat2CMovgRR6_97_127_EO.wav
 
-<group> loop_mode=one_shot key=A#6 group=1 off_by=1  // Pedal
+<group> loop_mode=one_shot amp_veltrack=97 key=A#6 group=1 off_by=1  // Pedal
 <region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-PD/AD37_Hihat2CMpvgRR1_1_42_PD.wav
 <region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-PD/AD37_Hihat2CMpvgRR1_43_84_PD.wav
 <region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-PD/AD37_Hihat2CMpvgRR1_85_127_PD.wav
@@ -283,7 +283,7 @@
 <region> lovel=043 hivel=084 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-PD/AD37_Hihat2CMpvgRR6_43_84_PD.wav
 <region> lovel=085 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Hihat2-PD/AD37_Hihat2CMpvgRR6_85_127_PD.wav
 
-<group> loop_mode=one_shot key=B6 group=1 off_by=1  // Footsplash
+<group> loop_mode=one_shot amp_veltrack=97 key=B6 group=1 off_by=1  // Footsplash
 <region> lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2CMovgRR1_1_127_FS.wav
 <region> lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Hihat2-FS/AD37_Hihat2CMovgRR2_1_127_FS.wav
 <region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Hihat2-FS/AD37_Hihat2CMovgRR3_1_127_FS.wav

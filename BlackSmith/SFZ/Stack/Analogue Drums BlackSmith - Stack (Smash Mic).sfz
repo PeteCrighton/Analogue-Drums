@@ -3,7 +3,7 @@
 
 // Stack (Smash Mic)
 
-<group> loop_mode=one_shot key=D#5
+<group> loop_mode=one_shot amp_veltrack=97 key=D#5
 <region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_StackSMRR1_1_42_EG.wav
 <region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_StackSMRR1_43_84_EG.wav
 <region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD35_StackSMRR1_85_127_EG.wav

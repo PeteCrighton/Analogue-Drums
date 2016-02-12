@@ -3,7 +3,7 @@
 
 // Ride 2 (Overhead Mics)
 
-<group> loop_mode=one_shot key=F#2  // Bow
+<group> loop_mode=one_shot amp_veltrack=97 key=F#2  // Bow
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-BW/AD37_Ride2OHRR1_1_32_BW.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-BW/AD37_Ride2OHRR1_33_64_BW.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-BW/AD37_Ride2OHRR1_65_96_BW.wav
@@ -29,7 +29,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride2-BW/AD37_Ride2OHRR6_65_96_BW.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride2-BW/AD37_Ride2OHRR6_97_127_BW.wav
 
-<group> loop_mode=one_shot key=G2  // Bell
+<group> loop_mode=one_shot amp_veltrack=97 key=G2  // Bell
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-BL/AD37_Ride2OHRR1_1_32_BL.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-BL/AD37_Ride2OHRR1_33_64_BL.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-BL/AD37_Ride2OHRR1_65_96_BL.wav
@@ -55,7 +55,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride2-BL/AD37_Ride2OHRR6_65_96_BL.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=Ride2-BL/AD37_Ride2OHRR6_97_127_BL.wav
 
-<group> loop_mode=one_shot key=G#2  // Edge
+<group> loop_mode=one_shot amp_veltrack=97 key=G#2  // Edge
 <region> lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2OHRR1_1_127_EG.wav
 <region> lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=Ride2-EG/AD37_Ride2OHRR2_1_127_EG.wav
 <region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=Ride2-EG/AD37_Ride2OHRR3_1_127_EG.wav

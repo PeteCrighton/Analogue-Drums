@@ -3,7 +3,7 @@
 
 // FX Crash (Overhead Mics)
 
-<group> loop_mode=one_shot key=A5  // Edge
+<group> loop_mode=one_shot amp_veltrack=97 key=A5  // Edge
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR1_1_32_EG.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR1_33_64_EG.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-EG/AD35_FXCrashOHRR1_65_96_EG.wav
@@ -29,7 +29,7 @@
 <region> lovel=065 hivel=096 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR6_65_96_EG.wav
 <region> lovel=097 hivel=127 lorand=0.66 hirand=1 seq_length=2 seq_position=2 sample=FXCrash-EG/AD35_FXCrashOHRR6_97_127_EG.wav
 
-<group> loop_mode=one_shot key=A#5  // Bell
+<group> loop_mode=one_shot amp_veltrack=97 key=A#5  // Bell
 <region> lovel=001 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR1_1_42_BL.wav
 <region> lovel=043 hivel=084 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR1_43_84_BL.wav
 <region> lovel=085 hivel=127 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=FXCrash-BL/AD35_FXCrashOHRR1_85_127_BL.wav
