@@ -3,7 +3,7 @@
 
 // 
 
-<group> loop_mode=one_shot key=
+<group> loop_mode=one_shot amp_veltrack=97 key=
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=

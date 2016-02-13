@@ -3,7 +3,7 @@
 
 // 
 
-<group> loop_mode=one_shot key=
+<group> loop_mode=one_shot amp_veltrack=97 key=
 <region> lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=
 <region> lorand=0 hirand=0.33 seq_length=2 seq_position=2 sample=
 <region> lorand=0.33 hirand=0.66 seq_length=2 seq_position=1 sample=
