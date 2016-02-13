@@ -3,7 +3,7 @@
 
 // Kick (Overhead Mics)
 
-<group> loop_mode=one_shot key=B0
+<group> loop_mode=one_shot amp_veltrack=97 key=B0
 <region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD25_OH_Kick_RF_v01r01.wav
 <region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD25_OH_Kick_RF_v01r02.wav
 <region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD25_OH_Kick_RF_v01r03.wav

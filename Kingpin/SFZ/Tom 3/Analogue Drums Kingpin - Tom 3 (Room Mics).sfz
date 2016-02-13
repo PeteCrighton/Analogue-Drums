@@ -3,7 +3,7 @@
 
 // Tom 3 (Room Mics)
 
-<group> loop_mode=one_shot key=D2
+<group> loop_mode=one_shot amp_veltrack=97 key=D2
 <region> lovel=001 hivel=021 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_RM_Tom3_CN_v01r01.wav
 <region> lovel=022 hivel=042 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_RM_Tom3_CN_v02r01.wav
 <region> lovel=043 hivel=063 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_RM_Tom3_CN_v03r01.wav

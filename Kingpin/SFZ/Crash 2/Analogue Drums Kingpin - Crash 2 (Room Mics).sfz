@@ -3,7 +3,7 @@
 
 // Crash 2 (Room Mics)
 
-<group> loop_mode=one_shot key=D#4
+<group> loop_mode=one_shot amp_veltrack=97 key=D#4
 <region> lovel=001 hivel=032 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_RM_Crash2_EG_v01r01.wav
 <region> lovel=033 hivel=064 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_RM_Crash2_EG_v02r01.wav
 <region> lovel=065 hivel=096 lorand=0 hirand=0.33 seq_length=2 seq_position=1 sample=AD24_RM_Crash2_EG_v03r01.wav
