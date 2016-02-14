@@ -4,7 +4,7 @@
   <Author>Peter Crighton</Author>
   <MasterDeviceNames>
     <Manufacturer>Analogue Drums</Manufacturer>
-    <Model>MODEL</Model>
+    <Model>Bombastix</Model>
     <CustomDeviceMode Name="Default">
       <ChannelNameSetAssignments>
         <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
