@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Peter Crighton</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Analogue Drums</Manufacturer>
+    <Model>MODEL</Model>
+    <CustomDeviceMode Name="Default">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <UsesNoteNameList Name="Full Set"/>
+    </ChannelNameSet>
+    <NoteNameList Name="Full Set">
+      <Note Number="18" Name=""/>
+      <Note Number="19" Name="Kick 3"/>
+      <Note Number="20" Name=""/>
+      <Note Number="21" Name="Kick 2"/>
+      <Note Number="22" Name=""/>
+      <Note Number="23" Name="Kick 1"/>
+      <Note Number="24" Name="Snare 1 (cross-stick)"/>
+      <Note Number="25" Name="Snare 1"/>
+      <Note Number="26" Name=""/>
+      <Note Number="27" Name="Snare 2 (cross-stick)"/>
+      <Note Number="28" Name="Snare 2"/>
+      <Note Number="29" Name=""/>
+      <Note Number="30" Name="Snare 3 (cross-stick)"/>
+      <Note Number="31" Name="Snare 3"/>
+      <Note Number="32" Name=""/>
+      <Note Number="33" Name="Snare 4 (cross-stick)"/>
+      <Note Number="34" Name="Snare 4"/>
+      <Note Number="35" Name=""/>
+      <Note Number="36" Name="Tom 1"/>
+      <Note Number="37" Name="Tom 2"/>
+      <Note Number="38" Name="Tom 3"/>
+      <Note Number="39" Name="Tom 4"/>
+      <Note Number="40" Name="Tom 5"/>
+      <Note Number="41" Name="Tom 6"/>
+      <Note Number="42" Name="Ride 1 (Bow)"/>
+      <Note Number="43" Name="Ride 1 (Bell)"/>
+      <Note Number="44" Name="Ride 1 (Edge)"/>
+      <Note Number="45" Name="Ride 2 (Bow)"/>
+      <Note Number="46" Name="Ride 2 (Bell)"/>
+      <Note Number="47" Name="Ride 2 (Edge)"/>
+      <Note Number="48" Name="Hihat (Tip Tight)"/>
+      <Note Number="49" Name="Hihat (Tip Closed)"/>
+      <Note Number="50" Name="Hihat (Tip Loose)"/>
+      <Note Number="51" Name="Hihat (Tip Semi-open)"/>
+      <Note Number="52" Name="Hihat (Tip Open)"/>
+      <Note Number="53" Name="Hihat (Edge Tight)"/>
+      <Note Number="54" Name="Hihat (Edge Closed)"/>
+      <Note Number="55" Name="Hihat (Edge Loose)"/>
+      <Note Number="56" Name="Hihat (Edge Semi-open)"/>
+      <Note Number="57" Name="Hihat (Edge Open)"/>
+      <Note Number="58" Name="Hihat (Pedal)"/>
+      <Note Number="59" Name="Hihat (Footsplash)"/>
+      <Note Number="60" Name="Crash 1 (Edge)"/>
+      <Note Number="61" Name="Crash 1 (Bell)"/>
+      <Note Number="62" Name="Crash 1 (Choke)"/>
+      <Note Number="63" Name="Crash 2 (Edge)"/>
+      <Note Number="64" Name="Crash 2 (Bell)"/>
+      <Note Number="65" Name="Crash 2 (Choke)"/>
+      <Note Number="66" Name="Crash 3 (Edge)"/>
+      <Note Number="67" Name="Crash 3 (Bell)"/>
+      <Note Number="68" Name="Crash 3 (Choke)"/>
+      <Note Number="69" Name="Crash 4 (Edge)"/>
+      <Note Number="70" Name="Crash 4 (Bell)"/>
+      <Note Number="71" Name="Crash 4 (Choke)"/>
+      <Note Number="72" Name="Splash"/>
+      <Note Number="73" Name=""/>
+      <Note Number="74" Name=""/>
+      <Note Number="75" Name="Stack"/>
+      <Note Number="76" Name=""/>
+      <Note Number="77" Name=""/>
+      <Note Number="78" Name="China"/>
+      <Note Number="79" Name=""/>
+      <Note Number="80" Name=""/>
+      <Note Number="81" Name="FX Crash"/>
+      <Note Number="82" Name=""/>
+      <Note Number="83" Name=""/>
+      <Note Number="84" Name="Hihat 2 (Tip Tight)"/>
+      <Note Number="85" Name="Hihat 2 (Tip Closed)"/>
+      <Note Number="86" Name="Hihat 2 (Tip Loose)"/>
+      <Note Number="87" Name="Hihat 2 (Tip Semi-open)"/>
+      <Note Number="88" Name="Hihat 2 (Tip Open)"/>
+      <Note Number="89" Name="Hihat 2 (Edge Tight)"/>
+      <Note Number="90" Name="Hihat 2 (Edge Closed)"/>
+      <Note Number="91" Name="Hihat 2 (Edge Loose)"/>
+      <Note Number="92" Name="Hihat 2 (Edge Semi-open)"/>
+      <Note Number="93" Name="Hihat 2 (Edge Open)"/>
+      <Note Number="94" Name="Hihat 2 (Pedal)"/>
+      <Note Number="95" Name="Hihat 2 (Footsplash)"/>
+    </NoteNameList>
+   </MasterDeviceNames>
+</MIDINameDocument>
+ 
